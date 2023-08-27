@@ -1,3 +1,8 @@
+# React Task using APIs & Hooks
+
+![image](https://github.com/pranathi-jayanthi/react-api-hooks-task/assets/113671307/e816d065-0f37-4b8c-8c82-db5121315d05)
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
